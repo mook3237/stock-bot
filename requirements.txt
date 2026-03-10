@@ -1,0 +1,4 @@
+FinanceDataReader
+requests
+beautifulsoup4
+pandas
